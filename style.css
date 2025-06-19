@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+    margin:10px;
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+    
+}
+h1,h3{
+    color: darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul,ol{
+    font-style: italic;
+}
+p{
+    font-family:cursive;
+}
+button{
+    margin:5px;
+    padding: 5px;
+    font-size: large;
+    background-color: orange;
+}
+
+
